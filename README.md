@@ -22,4 +22,4 @@ Restart Claude Code. The skill will guide you through setup.
 
 ## Links
 
-[Docs](https://www.ensue-network.ai/docs) · [Dashboard](https://www.ensue-network.ai/dashboard) · [Homepage](https://ensue.dev) · [API](https://api.ensue-network.ai)
+[Docs](https://www.ensue-network.ai/docs) · [Dashboard](https://www.ensue-network.ai/dashboard) · [Homepage](https://ensue.dev) · API: `https://api.ensue-network.ai`
